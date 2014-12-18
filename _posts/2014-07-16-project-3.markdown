@@ -25,3 +25,5 @@ Thymio II sert à:
 <br/>comprendre des phénomènes technologiques
 
 Pour découvrir des exemples de réalisations avec Thymio II:<br/>[https://aseba.wikidot.com/fr:thymioexamples](https://aseba.wikidot.com/fr:thymioexamples)
+
+Et quelques vidéos de nos ateliers Thymio sur [Youtube](https://www.youtube.com/playlist?list=PLX5I9ZDiVBxe0Uol_bL3qqCvblCDiM5nC)
