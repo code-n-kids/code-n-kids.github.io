@@ -2,10 +2,15 @@
 title: Makey Makey
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+img: makeymakey.jpg
+thumbnail: makeymakey-thumbnail.jpg
+alt: Makey Makey
 ---
+
+Makey Makey est un “kit d'invention pour tout le monde".
+
+Makey Makey permet de contrôler votre ordinateur portable ou PC à partir de n’importe quel objet imaginable (du moment qu’il est légèrement conducteur).
+
+En effet, tout ce dont vous avez besoin est d’un Makey Makey, de pinces crocodiles et de beaucoup d’imagination ! Vraiment, vous pouvez faire presque n’importe quoi avec ! Par exemple, vous bricolez vous-même une manette avec un dessin sur du papier, de la pâte à modeler, du papier aluminuim, ...
+
+Pour vous donner une meilleure idée des possibilités, allez voir cette vidéo:<br/>[http://www.youtube.com/watch?v=rfQqh7iCcOU](http://www.youtube.com/watch?v=rfQqh7iCcOU)

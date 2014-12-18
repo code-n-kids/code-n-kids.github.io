@@ -1,11 +1,27 @@
 ---
-title: Thymio
+title: Thymio II
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+img: thymio.jpg
+thumbnail: thymio-thumbnail.jpg
+alt: Thymio II
 ---
+
+Thymio II est un robot éducatif qui se base sur quatre piliers:
+<br/>une grande quantité de capteurs et d'actuateurs
+<br/>une interactivité éducative basée sur la lumière et le touché
+<br/>une programmation facile graphique et textuelle
+<br/>accessible à tout âge (de 4 à 120 ans)
+
+Les capteurs principaux sont:
+<br/>les capteurs de distance pour mesurer s'il y a un objet à proximité
+<br/>un haut-parler et un microphone pour entendre ou enregistrer des sons
+<br/>5 boutons sur le dessus pour pouvoir guider le robot ou changer de programme
+<br/>2 détecteurs de sol sous le robot pour éviter qu'il ne tombe de la table
+
+Thymio II sert à:
+<br/>découvrir la programmation
+<br/>animer tes constructions ou bricolages
+<br/>comprendre des phénomènes technologiques
+
+Pour découvrir des exemples de réalisations avec Thymio II:<br/>[https://aseba.wikidot.com/fr:thymioexamples](https://aseba.wikidot.com/fr:thymioexamples)

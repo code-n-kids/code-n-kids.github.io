@@ -2,10 +2,15 @@
 title: Scratch
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+img: scratch.jpg
+thumbnail: scratch-thumbnail.jpg
+alt: Scratch
 ---
+
+Avec Scratch, vous pouvez programmer vos propres histoires interactives, vos jeux et animations.
+
+Scratch aide les jeunes à apprendre à penser de façon créative, à raisonner systématiquement et à travailler en collaboration : les compétences essentielles pour la vie au 21ème siècle.
+
+Scratch est un projet du groupe Lifelong Kindergarten au MIT Media Lab. Il est fourni gratuitement.
+
+Vous pouvez retrouvez les projets créés lors des ateliers Code'n'Kids ici: [http://scratch.mit.edu/users/code_n_kids/](http://scratch.mit.edu/users/code_n_kids/)
